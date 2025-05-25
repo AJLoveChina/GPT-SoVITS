@@ -17,7 +17,7 @@ g2p_en
 torchaudio
 modelscope==1.10.0
 sentencepiece
-transformers=4.43
+transformers==4.43
 peft
 chardet
 PyYAML
